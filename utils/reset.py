@@ -7,7 +7,6 @@ import shutil
 # Check if excel-data file exist or not?
 # In model performance csv we will add a new column with zeros.
 
-
 def reset_configuration():
     # Paths to be created or reset
     config = {
